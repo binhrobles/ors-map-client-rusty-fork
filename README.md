@@ -1,5 +1,11 @@
-# ORS map client
+# ORS map client - Rusty Fork
+Fork of [ORS' Map Client](https://github.com/GIScience/ors-map-client).
 
+Will serve as the FE for a Rust rewrite of their Directions and possibly Geocoder service.
+
+README at fork time below:
+---
+# ORS map client
 [![Test](https://github.com/GIScience/ors-map-client/actions/workflows/test.yml/badge.svg)](https://github.com/GIScience/ors-map-client/actions/workflows/test.yml)
 
 This application implements a map client for the [openrouteservice API](https://openrouteservice.org/dev/#/api-docs/) as
