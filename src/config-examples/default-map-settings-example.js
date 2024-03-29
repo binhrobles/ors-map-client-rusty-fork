@@ -12,6 +12,7 @@
 
 const defaultMapSettings = {
   apiBaseUrl: 'https://api.openrouteservice.org',
+  rustyApiBaseUrl: 'http://localhost:7878', // BR: addition to point whatever requests to our service
   saveToLocalStorage: true,
   elevationProfile: true,
   apiKey: null,
